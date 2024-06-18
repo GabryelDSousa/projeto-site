@@ -13,6 +13,9 @@ h2{
     font-size: 19pt;   
     color: rgb(113, 65, 158);
 }
+img.lado{
+    float: right;
+}
 main {
     background-color: white;
     width: 500px;
