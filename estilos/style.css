@@ -3,7 +3,15 @@
     font-size: 16px
 }
 body {
-    background-color: rgb(204, 158, 247);
+    background-color: rgba(79, 80, 160, 0.637);
+}
+h1{ 
+    font-size: 25pt;
+    color: rgb(113, 65, 158);
+}
+h2{
+    font-size: 19pt;   
+    color: rgb(113, 65, 158);
 }
 main {
     background-color: white;
